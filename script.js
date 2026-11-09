@@ -1,0 +1,1 @@
+// Smooth anchor navigation is handled by CSS; this file is reserved for future enhancements.
